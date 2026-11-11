@@ -1,0 +1,9 @@
+---
+title: "Prediction Markets"
+author: Gina Cepeda
+#| message: false
+execute:
+  echo: false
+---
+library(tidyverse)
+library(arrow)
